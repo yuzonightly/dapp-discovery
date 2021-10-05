@@ -1,1 +1,1 @@
-# dapp-discovery
+# A Simple DApp
